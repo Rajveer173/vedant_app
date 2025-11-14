@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Enhanced Blue theme for weather UI -->
+    <color name="blue_start">#0D47A1</color>
+    <color name="blue_end">#1976D2</color>
+    <color name="blue_light">#42A5F5</color>
+    <color name="blue_accent">#2196F3</color>
+    <color name="overlay_white">#66FFFFFF</color>
+    <color name="overlay_white_strong">#88FFFFFF</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_white_dim">#E0FFFFFF</color>
+    <color name="card_background">#33FFFFFF</color>
+    <color name="shadow_color">#33000000</color>
+</resources>
